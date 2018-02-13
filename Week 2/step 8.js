@@ -30,10 +30,10 @@ console.log (w);
 true
 
 console.log('The value of my variable foo is: ' + "Saab","Volvo","BMW" );
-VM374:1 The value of my variable foo is: Saab Volvo BMW
+The value of my variable foo is: Saab Volvo BMW
 undefined
 console.log('The value of my variable foo is: ' + cars);
-VM376:1 The value of my variable foo is: Saab,Volvo,BMW
+The value of my variable foo is: Saab,Volvo,BMW
 
 
 
