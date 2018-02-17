@@ -1,14 +1,9 @@
 > var y = "hello world";
-undefined
-console.log('the value of my string will be: hello world');
-undefined
+  console.log('the value of my string will be: hello world');
 > console.log (y);
-hello world
-undefined
+// hello world
 > var y ="hello";
-undefined
-console.log('the value of my string will be: hello');
-undefined
+  console.log('the value of my string will be: hello');
+
 > console.log (y);
-hello
-undefined
+// hello

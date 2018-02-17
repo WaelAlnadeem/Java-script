@@ -1,18 +1,18 @@
 let x = 7;
-undefined
+
 console.log ('the new value of x is :' + 1);
-the new value of x is :1
-undefined
+// the new value of x is :1
+
 console.log(x % 3);
-1
-undefined
+// 1
+
 let f = 34;
-undefined
+
 console.log(f % 4.5)
-2.5
-undefined
+// 2.5
+
 console.log(f % 4)
-2
+// 2
 
 
 

@@ -1,23 +1,14 @@
 var arr = []
-undefined
 console.log('the value of my array will be: empty array');
-the value of my array will be: empty array
-undefined
+// the value of my array will be: empty array
 console.log (arr)
-[]
-undefined
+// []
 var animals = ["cat" , "dog" , "wolf"];
-undefined
 console.log (animals);
-["cat", "dog", "wolf"]
-undefined
+// ["cat", "dog", "wolf"]
 var daanFav = "baby pig"; 
-undefined
 console.log (daanFav);
-baby pig
-undefined
+// baby pig
 var arr = animals. concat(daanFav); 
-undefined
 console.log (arr);
-["cat", "dog", "wolf", "baby pig"]
-undefined
+// ["cat", "dog", "wolf", "baby pig"]

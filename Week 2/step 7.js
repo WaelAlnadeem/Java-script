@@ -1,8 +1,8 @@
 let myString = "this is a test";
-undefined
+
 console.log (myString);
-this is a test
-undefined
+// this is a test
+
 console.log (myString.length);
-14
-undefined
+// 14
+

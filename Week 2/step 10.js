@@ -1,7 +1,7 @@
 let multi = [342 , 'people', 485, 'freedom'];
-undefined
+
 console.log(multi);
-(4) [342, "people", 485, "freedom"]
+// (4) [342, "people", 485, "freedom"]
 console.log ('it could be compared becuase infinty is still a num');
 it could be compared becuase infinty is still a num
 if(o === q)
@@ -10,16 +10,16 @@ if(o === q)
 } else{
     console.log("they are not compared");
 }
-they are compared
-undefined
+// they are compared
+
 
 typeof o
-"number"
+// "number"
 typeof q
-"number"
+// "number"
 
 console.log (o);
-Infinity
+// Infinity
 console.log (q);
-Infinity
+// Infinity
 
